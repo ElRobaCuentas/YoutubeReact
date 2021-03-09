@@ -1,0 +1,40 @@
+.caja_padre {
+    display: flex;
+    flex-direction: column;
+    padding: 0px 45px;  
+    overflow: scroll;
+    height: calc(100vh - 60px);
+}
+
+.caja_padre a {
+    display: flex;
+    align-items: center;
+    margin:  15px 0px;
+}
+.caja_padre a:hover {
+    background-color: gray;
+}
+.caja_padre p {
+    margin: 0;
+}
+
+.cajaOne {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid gray;
+}
+
+.caja_padre p {
+    margin-left: 10px;
+}
+
+.cajaTwo {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid gray;
+}
+
+.cajaThree img {
+    width: 30px;
+    border-radius: 50%;
+}

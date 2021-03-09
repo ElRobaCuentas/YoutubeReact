@@ -1,0 +1,31 @@
+
+
+.padre {
+    height: 60px;
+    border:  2px solid red;
+    padding: 0px 45px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo a {
+    margin: 0px 10px;
+}
+
+.buscar {
+    padding: 0px 10px;
+}
+
+.buscar i {
+    margin-left: 15px;
+}
+
+.buscar input {
+    width: 600px;
+}
+
+.iconos a {
+    margin: 0px 8px;
+}
