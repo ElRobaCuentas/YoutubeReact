@@ -7,8 +7,8 @@ h3 {
 }
 
 .replicado {
-    border: 1px solid green;
-    width: 260px;
+    /* border: 1px solid green; */
+    width: 240px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -17,5 +17,45 @@ h3 {
 }
 
 .replicado img {
-    width: 250px;
+    width: 230px;
+}
+
+.replicado p {
+    margin-left: 10px;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.padre_tiulo {
+    padding: 3px;
+}
+
+.imagen_titulo {
+    display: flex;
+    align-items: center;
+    padding: 2px;
+}
+
+.imagen_titulo i {
+    color: #aaa;
+    margin-bottom: 9px;
+}
+
+.imagen_titulo img {
+    width: 35px;
+    height: 38px;
+    border-radius: 50%;
+}
+
+.descripcion_video p {
+    color: #aaa;
+    font-size: 13px;
+}
+
+.descripcion_video {
+    margin-right: 15px;
+}
+
+.descripcion_video .agencia:hover {
+    color: white;
 }

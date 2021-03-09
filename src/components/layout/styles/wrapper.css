@@ -1,17 +1,16 @@
 .main {
     border: 3px solid blue;
-    height: calc(100vh - 60px);
+    height: calc(100vh - 52px);
     display: flex;
-
 }
 
 .izquierda {
-    width: 250px;
+    width: 210px;
     border:  2px solid red;
     background-color: #212121;
 }
 
 .derecha {
-    width: calc(100% - 250px);
+    width: calc(100% - 210px);
     border:  2px solid rgb(0, 255, 0);
 }

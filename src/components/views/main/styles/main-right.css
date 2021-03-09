@@ -3,6 +3,8 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    overflow-y: scroll;
+    height: calc(100vh - 60px);
     /* margin:  0px 20px; */
 }
 
