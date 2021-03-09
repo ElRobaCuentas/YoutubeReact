@@ -1,0 +1,14 @@
+/* .replica {
+    margin-bottom: 10px;
+} */
+
+.replica a {
+    display: flex;
+    align-items: center;
+    margin:  15px 0px;
+    /* background: chartreuse; */
+}
+
+.replica p {
+    margin-left: 22px;
+}

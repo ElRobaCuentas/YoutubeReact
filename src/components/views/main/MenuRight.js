@@ -14,10 +14,6 @@ const MenuRight = () => {
                 <CajaGeneral />
                 <CajaGeneral />
                 <CajaGeneral />
-                <CajaGeneral />
-                <CajaGeneral />
-                <CajaGeneral />
-                <CajaGeneral />
             </div>
         </>
     )
